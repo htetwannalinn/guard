@@ -1,3 +1,4 @@
+rm passwords.txt
 pip2 install sys
 pip2 install mechanize
 pip2 install cookielib
